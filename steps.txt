@@ -1,0 +1,40 @@
+first step: 
+
+write your changes in the main file (for example: in Thesis.docx file)
+save it
+
+Second step:
+
+open command prompt
+
+Third step: 
+
+make sure your are in the write folder. if not use the command below:
+cd C:\Users\kristi.tombak\Documents\kristi\thesis
+
+Fourth step.
+
+Adding the file with git command:
+
+git add Thesis.docx
+
+
+Fifth step:
+
+commiting the file:
+
+git commit -m "your message here!"
+
+
+Sixth step:
+
+pusing to the repository in github
+
+git push origin main
+
+
+Extra steps::
+
+If you wanna see my changes then use this command:
+
+git pull origin main
